@@ -1,4 +1,4 @@
-### Hi there 👋
+### R o K a T G
 
 <p align="center">
   <img src="https://thumbs.gfycat.com/HideousMellowEmperorshrimp-size_restricted.gif" alt="MasterHead" width="1200">
