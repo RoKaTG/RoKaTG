@@ -19,6 +19,7 @@
 
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=oracle&logoColor=4479A1)](https://dev.java/)
+[![JavaFX](https://img.shields.io/badge/-JavaFX-000?&logo=oracle&logoColor=#FF5A00)](https://dev.java/)
 
 
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
