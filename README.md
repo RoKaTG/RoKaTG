@@ -15,15 +15,12 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=nodedotjs&logoColor=success)](https://nodejs.org/en)
-[![AJAX](https://img.shields.io/badge/-AJAX-000?&logo=reactquery&logoColor=#FF4154)](https://www.w3schools.com/xml/ajax_intro.asp)
 
-[![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
+
 [![Java](https://img.shields.io/badge/-Java-000?&logo=oracle&logoColor=4479A1)](https://dev.java/)
 [![C++](https://img.shields.io/badge/-C++-000?&logo=C++&logoColor=#00599C)](https://isocpp.org/)
-
-
 [![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=#A8B9CC)](https://www.iso.org/standard/74528.html)
-
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python&logoColor=#3776AB)](https://www.python.org/)
 
 
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
@@ -34,8 +31,10 @@
 
 ## En apprentissage / perfectionnement
 
+[![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 [![JavaFX](https://img.shields.io/badge/-JavaFX-000?&logo=oracle&logoColor=#FF5A00)](https://openjfx.io/)
 [![OCaml/OCamlex](https://img.shields.io/badge/-OCaml/OCamlex-000?&logo=ocaml&logoColor=#EC6813)](https://ocaml.org/)
+[![AJAX](https://img.shields.io/badge/-AJAX-000?&logo=reactquery&logoColor=#FF4154)](https://www.w3schools.com/xml/ajax_intro.asp)
 
 ## Quelques stats
 
