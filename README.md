@@ -16,7 +16,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
-[![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=NodeJS&logoColor=4479A1)](https://nodejs.org/en)
+[![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=nodedotjs&logoColor=success)](https://nodejs.org/en)
 
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
