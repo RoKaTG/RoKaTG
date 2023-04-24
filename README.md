@@ -18,7 +18,7 @@
 
 
 [![Java](https://img.shields.io/badge/-Java-000?&logo=oracle&logoColor=4479A1)](https://dev.java/)
-[![C++](https://img.shields.io/badge/-C++-000?&logo=C++&logoColor=#00599C)](https://isocpp.org/)
+[![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=#00599C)](https://isocpp.org/)
 [![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=#A8B9CC)](https://www.iso.org/standard/74528.html)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python&logoColor=#3776AB)](https://www.python.org/)
 
