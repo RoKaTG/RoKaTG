@@ -18,7 +18,7 @@
 [![AJAX](https://img.shields.io/badge/-AJAX-000?&logo=reactquery&logoColor=#FF4154)](https://www.w3schools.com/xml/ajax_intro.asp)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
-[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=4479A1)](https://dev.java/)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=oracle&logoColor=4479A1)](https://dev.java/)
 
 
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
