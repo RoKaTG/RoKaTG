@@ -19,8 +19,8 @@
 
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=oracle&logoColor=4479A1)](https://dev.java/)
-[![JavaFX](https://img.shields.io/badge/-JavaFX-000?&logo=oracle&logoColor=#FF5A00)](https://dev.java/)
-
+[![JavaFX](https://img.shields.io/badge/-JavaFX-000?&logo=oracle&logoColor=#FF5A00)](https://openjfx.io/)
+[![OCaml && OCamlex](https://img.shields.io/badge/-OCaml-&&-OCamlex-000?&logo=ocaml&logoColor=#EC6813)](https://ocaml.org/)
 
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
