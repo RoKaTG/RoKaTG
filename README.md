@@ -14,10 +14,12 @@
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
 [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-[![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 [![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=nodedotjs&logoColor=success)](https://nodejs.org/en)
 [![AJAX](https://img.shields.io/badge/-AJAX-000?&logo=reactquery&logoColor=#FF4154)](https://www.w3schools.com/xml/ajax_intro.asp)
+
+[![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=4479A1)](https://dev.java/)
+
 
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
