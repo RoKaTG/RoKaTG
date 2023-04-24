@@ -36,7 +36,7 @@
 [![OCaml/OCamlex](https://img.shields.io/badge/-OCaml/OCamlex-000?&logo=ocaml&logoColor=#EC6813)](https://ocaml.org/)
 [![AJAX](https://img.shields.io/badge/-AJAX-000?&logo=reactquery&logoColor=#FF4154)](https://www.w3schools.com/xml/ajax_intro.asp)
 
-## Quelques stats
+## Quelques stats  <p align="right"> <img src="https://komarev.com/ghpvc/?username=RoKaTG&label=Profile%20views&color=0e75b6&style=flat" alt="RoKaTG" /> </p>
 
 ![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=RoKatG&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
 
