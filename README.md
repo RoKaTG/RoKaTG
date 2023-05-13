@@ -5,10 +5,9 @@
 ## Me retrouver
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/RoKaTG/)
-```html
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> 
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="yassine-msilini" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/yassine-msilini?trk=profile-badge">Yassine Msilini</a></div>
-```
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/yassine-msilini-44a84b199/)
+
+
 ## Languages et outils
 
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
