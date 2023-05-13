@@ -5,7 +5,8 @@
 ## Me retrouver
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/RoKaTG/)
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="yassine-msilini" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/yassine-msilini?trk=profile-badge">Yassine Msilini</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> 
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="yassine-msilini" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/yassine-msilini?trk=profile-badge">Yassine Msilini</a></div>
 
 ## Languages et outils
 
