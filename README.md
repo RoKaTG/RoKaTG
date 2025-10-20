@@ -1,42 +1,45 @@
-# Bienvenue sur RoKaTG 👋
-
 [![RoKaTG](https://github-profile-trophy.vercel.app/?username=RoKaTG&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Me retrouver
+## Find Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/RoKaTG/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/yassine-msilini-44a84b199/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/ymsilin/)
 
 
-## Languages et outils
+## ⚙️ Skills & Tools
 
-[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
-[![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=nodedotjs&logoColor=success)](https://nodejs.org/en)
+**Languages**
+  
+[![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=00599C)](https://isocpp.org/)
+[![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=A8B9CC)](https://www.iso.org/standard/74528.html)
+[![CUDA](https://img.shields.io/badge/-CUDA-000?&logo=nvidia&logoColor=76B900)](https://developer.nvidia.com/cuda-zone)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python&logoColor=3776AB)](https://www.python.org/)
+[![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=intel&logoColor=blue)]()
+[![Matlab](https://img.shields.io/badge/-MatLab-000?&logo=Mathworks&logoColor=orange)](https://www.mathworks.com/products/matlab.html)
 
+**Tools**
 
-[![Java](https://img.shields.io/badge/-Java-000?&logo=oracle&logoColor=4479A1)](https://dev.java/)
-[![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=#00599C)](https://isocpp.org/)
-[![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=#A8B9CC)](https://www.iso.org/standard/74528.html)
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python&logoColor=#3776AB)](https://www.python.org/)
-
-
-[![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
+[![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux&logoColor=FCC624)](https://www.linux.org/)
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
-[![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab&logoColor=FC6D26)](https://www.gitlab.com/)
+[![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker&logoColor=2496ED)](https://www.docker.com/)
+[![CMake](https://img.shields.io/badge/-CMake-000?&logo=cmake&logoColor=064F8C)](https://cmake.org/)
+[![ParaView](https://img.shields.io/badge/-ParaView-000?&logo=paraview&logoColor=2F4F4F)](https://www.paraview.org/)
+[![Perf](https://img.shields.io/badge/-Perf-000?&logo=linux&logoColor=white)]()
+[![GDB](https://img.shields.io/badge/-GDB-000?&logo=gnu&logoColor=white)]()
 
+**Frameworks / Libraries**
 
-## En apprentissage / perfectionnement
+[![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy&logoColor=013243)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas&logoColor=150458)](https://pandas.pydata.org/)
+[![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?&logo=scikitlearn&logoColor=F7931E)](https://scikit-learn.org/)
+[![Qt](https://img.shields.io/badge/-Qt-000?&logo=qt&logoColor=41CD52)](https://www.qt.io/)
+[![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=latex&logoColor=008080)](https://www.latex-project.org/)
+[![Typst](https://img.shields.io/badge/-Typst-000?&logo=typst&logoColor=white)](https://typst.app/)
 
-[![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
-[![JavaFX](https://img.shields.io/badge/-JavaFX-000?&logo=oracle&logoColor=#FF5A00)](https://openjfx.io/)
-[![OCaml/OCamlex](https://img.shields.io/badge/-OCaml/OCamlex-000?&logo=ocaml&logoColor=#EC6813)](https://ocaml.org/)
-[![AJAX](https://img.shields.io/badge/-AJAX-000?&logo=reactquery&logoColor=#FF4154)](https://www.w3schools.com/xml/ajax_intro.asp)
+---
 
-## Quelques stats  <p align="right"> <img src="https://komarev.com/ghpvc/?username=RoKaTG&label=Profile%20views&color=0e75b6&style=flat" alt="RoKaTG" /> </p>
+## 📊 GitHub Stats  <p align="right"> <img src="https://komarev.com/ghpvc/?username=RoKaTG&label=Profile%20views&color=0e75b6&style=flat" alt="RoKaTG" /> </p>
 
-![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=RoKatG&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=RoKaTG&custom_title=GitHub%20Contributions&show_icons=true&locale=en&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
 
- [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=RoKaTG&theme=tokyonight)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=RoKaTG&theme=tokyonight)](https://git.io/streak-stats)
