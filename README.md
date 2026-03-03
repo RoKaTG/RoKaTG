@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/ymsilin/)
 
 
-## ⚙️ Skills & Tools
+## Skills & Tools
 
 **Languages**
   
